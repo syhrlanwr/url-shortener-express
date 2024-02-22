@@ -1,7 +1,7 @@
 # URL Shortener
 
 ![screencapture.gif](https://raw.githubusercontent.com/syhrlanwr/url-shortener-express/main/screencapture.gif)
-# URL Shortener
+
 
 ## Description
 This is a URL shortener application built using Node.js and Express.js. It allows users to shorten long URLs into shorter, more manageable ones.
