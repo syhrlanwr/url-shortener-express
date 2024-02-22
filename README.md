@@ -12,9 +12,12 @@ This is a URL shortener application built using Node.js and Express.js. It allow
    ```bash
    npm install
     ```
-3. Run the application:
+3. Create a `.env` file in the root directory and add the following:
+    ```env
+    MONGODB_URI=YOUR_URI
+    ```
+4. Run the application:
     ```bash
     node index.js
     ```
-4. Open your browser and go to `http://localhost:3000`.
-
+5. Open your browser and go to `http://localhost:3000`.
